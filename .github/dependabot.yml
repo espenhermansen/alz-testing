@@ -4,8 +4,8 @@ updates:
     directory: "/terraform"
     schedule:
       interval: "daily"
-      time: "09:00"
-      timezone: "Oslo"
+      time: "14:00"
+      timezone: "Copenhagen"
     assignees:
     - espenhermansen
     reviewers:
